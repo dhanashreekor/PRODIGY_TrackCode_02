@@ -1,2 +1,2 @@
 # PRODIGY_TrackCode_02
-Stopwatch using html and css
+Stopwatch using HTML and CSS
